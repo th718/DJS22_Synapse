@@ -2,7 +2,7 @@
 # prime number give binary
 # not prime number give array of divisors
 #create dict
-#take input from num in range
+#take input , num in range
 def is_prime(num):
     if(num<2):
         return False
